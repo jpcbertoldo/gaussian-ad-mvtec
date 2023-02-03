@@ -103,5 +103,5 @@ dependencies:
     - urllib3==1.25.7
     - werkzeug==0.16.0
     - wrapt==1.11.2
-# prefix: /work/scratch/rippel/miniconda3/envs/gaussian-ad-mvtec
+prefix: /work/scratch/rippel/miniconda3/envs/gaussian-ad-mvtec
 
